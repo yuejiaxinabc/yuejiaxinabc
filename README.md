@@ -3,7 +3,7 @@
 ![MacOS](https://img.shields.io/badge/macOS-Hackintosh-292e33?logo=apple)
 ###
 <h1 align="center">Hi 👋, I'm xiaoyue</h1>
-<h3 align="center">A passionate frontend developer from china</h3>
+<h3 align="center">A DevOps engineer from China who learned the hard way: never trust your midnight debugging skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuejiaxinabc&label=Profile%20views&color=0e75b6&style=flat" alt="yuejiaxinabc" /> </p>
 
